@@ -1,3 +1,19 @@
 I am learning python right now.
 Anshul is my good frieng.
 Right now I am studying SCM.
+VERSION CONTROL:
+Version control system comes into the picture when we need to track history of the file.
+GIT:
+GIT is a fast and modrale inplematation of vesrion control system.
+Its provide history of containt changes.
+GIT fecilitates the colabrative changes to file.
+GIT is easu to use for any type of knowledge worker.
+Function of SCM:
+Version control system tells us who made the changes and when the changes have been done.
+
+HOW GIT different from other VCS?? :-
+other vsc store information as a list of file based changes, it like information as a set of files and the changes made to each file over time. These type of VCS is called Delta based vcs like cvs, subversion, Perforce, Bazaar.
+* GIT saves data more like a series of snapshots in a mini file system every time you commit save the state of the project git take the picture of your all files look like at that momentand stores a refrence to that snapshot
+* To be efficent if file is not changed it does not save the file again.
+* GIT store data in the form of stream of snapshot.
+* GIT more like a mini file system with some incredibly powerful tools built on top of it rather than other vcs.
