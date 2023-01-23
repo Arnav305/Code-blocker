@@ -1,0 +1,3 @@
+I am learning python right now.
+Anshul is my good frieng.
+Right now I am studying SCM.
