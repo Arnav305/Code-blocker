@@ -15,5 +15,3 @@ HOW GIT different from other VCS?? :-
 other vsc store information as a list of file based changes, it like information as a set of files and the changes made to each file over time. These type of VCS is called Delta based vcs like cvs, subversion, Perforce, Bazaar.
 * GIT saves data more like a series of snapshots in a mini file system every time you commit save the state of the project git take the picture of your all files look like at that momentand stores a refrence to that snapshot
 * To be efficent if file is not changed it does not save the file again.
-* GIT store data in the form of stream of snapshot.
-* GIT more like a mini file system with some incredibly powerful tools built on top of it rather than other vcs.
